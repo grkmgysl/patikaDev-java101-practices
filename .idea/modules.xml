@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/averageGrade/averageGrade.iml" filepath="$PROJECT_DIR$/averageGrade/averageGrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/hypotenuseCalc/hypotenuseCalc.iml" filepath="$PROJECT_DIR$/hypotenuseCalc/hypotenuseCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" filepath="$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxiMeter/taxiMeter.iml" filepath="$PROJECT_DIR$/taxiMeter/taxiMeter.iml" />
     </modules>
   </component>
 </project>
