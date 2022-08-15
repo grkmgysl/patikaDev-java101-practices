@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/averageGrade/averageGrade.iml" filepath="$PROJECT_DIR$/averageGrade/averageGrade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" filepath="$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" />
+    </modules>
+  </component>
+</project>
