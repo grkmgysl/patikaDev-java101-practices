@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleArea/circleArea.iml" filepath="$PROJECT_DIR$/circleArea/circleArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/flightTicket/flightTicket.iml" filepath="$PROJECT_DIR$/flightTicket/flightTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forAverage/forAverage.iml" filepath="$PROJECT_DIR$/forAverage/forAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/hypotenuseCalc/hypotenuseCalc.iml" filepath="$PROJECT_DIR$/hypotenuseCalc/hypotenuseCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/leapYear/leapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" filepath="$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" />
