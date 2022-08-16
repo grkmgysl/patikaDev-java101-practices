@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/digitsSum/digitsSum.iml" filepath="$PROJECT_DIR$/digitsSum/digitsSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ebobekok/ebobekok.iml" filepath="$PROJECT_DIR$/ebobekok/ebobekok.iml" />
       <module fileurl="file://$PROJECT_DIR$/evenAndFourSum/evenAndFourSum.iml" filepath="$PROJECT_DIR$/evenAndFourSum/evenAndFourSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/flightTicket/flightTicket.iml" filepath="$PROJECT_DIR$/flightTicket/flightTicket.iml" />
       <module fileurl="file://$PROJECT_DIR$/forAverage/forAverage.iml" filepath="$PROJECT_DIR$/forAverage/forAverage.iml" />
       <module fileurl="file://$PROJECT_DIR$/harmonic/harmonic.iml" filepath="$PROJECT_DIR$/harmonic/harmonic.iml" />
