@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/harmonic/harmonic.iml" filepath="$PROJECT_DIR$/harmonic/harmonic.iml" />
       <module fileurl="file://$PROJECT_DIR$/hypotenuseCalc/hypotenuseCalc.iml" filepath="$PROJECT_DIR$/hypotenuseCalc/hypotenuseCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/leapYear/leapYear.iml" filepath="$PROJECT_DIR$/leapYear/leapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minmax/minmax.iml" filepath="$PROJECT_DIR$/minmax/minmax.iml" />
       <module fileurl="file://$PROJECT_DIR$/multiplesOfFourFive/multiplesOfFourFive.iml" filepath="$PROJECT_DIR$/multiplesOfFourFive/multiplesOfFourFive.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" filepath="$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" />
       <module fileurl="file://$PROJECT_DIR$/taxiMeter/taxiMeter.iml" filepath="$PROJECT_DIR$/taxiMeter/taxiMeter.iml" />
