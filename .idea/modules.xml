@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/averageGrade/averageGrade.iml" filepath="$PROJECT_DIR$/averageGrade/averageGrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleArea/circleArea.iml" filepath="$PROJECT_DIR$/circleArea/circleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitsSum/digitsSum.iml" filepath="$PROJECT_DIR$/digitsSum/digitsSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/evenAndFourSum/evenAndFourSum.iml" filepath="$PROJECT_DIR$/evenAndFourSum/evenAndFourSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/flightTicket/flightTicket.iml" filepath="$PROJECT_DIR$/flightTicket/flightTicket.iml" />
       <module fileurl="file://$PROJECT_DIR$/forAverage/forAverage.iml" filepath="$PROJECT_DIR$/forAverage/forAverage.iml" />
