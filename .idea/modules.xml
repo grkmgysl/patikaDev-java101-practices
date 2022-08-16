@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDVPrice/KDVPrice.iml" filepath="$PROJECT_DIR$/KDVPrice/KDVPrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atm/atm.iml" filepath="$PROJECT_DIR$/atm/atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/averageGrade/averageGrade.iml" filepath="$PROJECT_DIR$/averageGrade/averageGrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleArea/circleArea.iml" filepath="$PROJECT_DIR$/circleArea/circleArea.iml" />
