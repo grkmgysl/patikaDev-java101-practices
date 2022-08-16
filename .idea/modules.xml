@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/multiplesOfFourFive/multiplesOfFourFive.iml" filepath="$PROJECT_DIR$/multiplesOfFourFive/multiplesOfFourFive.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" filepath="$PROJECT_DIR$/.idea/patikaDev-java101-practices.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/perfectNumber/perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeNums/primeNums.iml" filepath="$PROJECT_DIR$/primeNums/primeNums.iml" />
       <module fileurl="file://$PROJECT_DIR$/taxiMeter/taxiMeter.iml" filepath="$PROJECT_DIR$/taxiMeter/taxiMeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/temprature/temprature.iml" filepath="$PROJECT_DIR$/temprature/temprature.iml" />
     </modules>
